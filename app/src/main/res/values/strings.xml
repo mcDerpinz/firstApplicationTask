@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstApplicationTask</string>
+    <string name="beneficiary_info">%1$s %2$s %3$s %4$s</string>
+    <string name="address">Address:</string>
+</resources>
